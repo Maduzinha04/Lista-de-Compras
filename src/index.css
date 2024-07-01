@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+    background-origin: border-box;
+}
+body{
+    background: #cffce2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
