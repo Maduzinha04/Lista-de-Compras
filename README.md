@@ -7,7 +7,9 @@ Este é um projeto simples, utilizando apenas React JS, para fazer uma lista de 
 
 Este é um projeto feito para ajudar no dia-a-dia, para facilitar a realização de uma lista de compras. É utilizado React JS como linguagem principal para o seu desenvolvimento.
 
-Este projeto é de nível básico, é apenas necessário ter conhecimentos básicos em HTML, CSS e JavaScript.
+Este projeto é de nível básico, é apenas necessário ter conhecimentos básicos em HTML, CSS e JavaScript. 
+
+É necessário instalar o Vite.
 
 # Estrutura do projeto
 
