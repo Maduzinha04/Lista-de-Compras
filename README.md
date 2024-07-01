@@ -15,21 +15,21 @@ Este projeto é de nível básico, é apenas necessário ter conhecimentos bási
 
 1º O arquivo index.html serve apenas para chamar nosso arquivo jsx, onde está realmente a estrutura do nosso site.  Há apenas o nome e um ícone do projeto para mostrar na aba, uma biblioteca necessária para o funcionamento do site e por fim a estrutura básica do HTML.
 
-![indexhtml](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/662e01b8-a090-4b08-adcb-ae9b07b5d1e4)
+![indexhtml](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/b06b9860-e640-4a92-90b0-c0f311c8027b)
 
 2º Em seguida temos o arquivo idex.css, que nada mais é do que estilos que serão aplicados em toda a nossa página.
 
-![imagem_2024-06-25_143534232](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/85be15c4-cc31-4268-ab3d-289ad6ad045f)
+![indexcss](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/ad141322-54f3-4c2c-96dd-a52365d32eb8)
 
 3º Finalmente, temos o arquivo Home.jsx. Este arquvo contém a estrutura da página e seus elementos.
 
-![imagem_2024-06-25_143757540](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/d3db8937-eabb-432c-865c-ff2c40a7a200)
+![homejsx1](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/2aec7081-d7e1-4f0d-8e2b-c7a79c9b44d4)
 
 4º Por fim, temos o arquivo styles.jsx, onde estão todos os estilos dos elementos da Home. Perce-se que os estilos que temos neste arquivo, são como variáveis que devem ser importadas no arquivo Home.jsx.
 
 PS.: é necessário ter instalado o styled-components, caso for utilizar o VS Code, intalar a extensão também.
 
-![imagem_2024-06-25_144217933](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/8c6677f9-a648-40a2-a9de-623c9bdc8e0e)
+![stylesjsx](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/a9fd72ec-0ef0-45e1-a2f4-791ec2081404)
 
 # Funcionalidades
 
@@ -37,25 +37,25 @@ PS.: é necessário ter instalado o styled-components, caso for utilizar o VS Co
 
 A primeira coisa que o usuário verá, será uma div simples, estilizada, com um input, onde deverá ser escrito o item da lista de compras, um botão para enviar e um botão para compartilhar a lista, que não tem um uso real até a lista ter algum item.
 
-![imagem_2024-06-25_144457691](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/4aebdbcb-3bbc-4a1f-b11b-ed9c66795621)
+![paginaInical](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/0de6986c-ab63-490e-a34d-7fe379434dc6)
 
 ### Depois de adicionar item
 
 O site permite que sejam colocador vários produtos na lista, cada vez que um item é adicionado ele aparecerá na tela junto de um botão para deletá-lo.
 
-![imagem_2024-06-25_144927633](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/8ae993ea-2cd6-49a0-8fe5-209b5cc3cfb6)
+![produtos](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/73ac3791-ebb6-41ee-b14f-b3703060cae4)
 
 ### Deletar item
 
 Após deletar um item, o mesmo devrá desaparecer da tela sem causar problemas para os outros itens que permaneceram.
 
-![imagem_2024-06-25_145104904](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/405a9c00-6982-4301-840a-8c27c2e9e3df)
+![PRODUTOdELETADO](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/1b81fa99-23e5-4f2f-bc2d-4d243ff0bf3a)
 
 ### Botão de compartilhar
 
 Por fim, após a lista ser finalizada, o usuário terá a possibilidade de compartilhar com alguém via WhatsApp.
 
-![imagem_2024-06-25_145318069](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/dccfe543-35a4-40d3-9c05-00f172a7de0f)
+![compartilharProduto](https://github.com/Maduzinha04/Lista-de-Compras/assets/166539068/033c4422-7351-42ff-bdf8-7aefd5fbcdc0)
 
 Ps.: pode-se perceber que os itens da lista estão prontos para ser enviados pelo aplicativo de conversa.
 
